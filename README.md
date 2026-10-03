@@ -60,3 +60,7 @@ GitHub
 🎯 Purpose
 
 This repository contains my Python learning and practice programs. It covers fundamental Python concepts and provides simple examples that are useful for building programming skills and preparing for technical interviews.
+
+Author
+
+Priya
